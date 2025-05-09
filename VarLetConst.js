@@ -3,12 +3,11 @@ function ajay(){
     // Redeclaration
 
     var a=10
-    var a=16
+    var a=18
 
-    let name
-    let name
 
-    console.log(a);
+
+ console.log(a);
 
 
 }
