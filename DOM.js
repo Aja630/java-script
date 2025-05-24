@@ -12,6 +12,9 @@ let callme=()=>{
 
      aja.innerHTML="<p> ajay </p>"
         aja1.innerHTML="<p> ahirwar </p>"
+
+        aja.Style.
+
         
      //mana.innerHTML="ahirwar"
      // mytag.textContent=""
