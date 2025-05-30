@@ -10,7 +10,7 @@ let callme=()=>{
 
       //let mytag=  document.querySelector("#text")
 
-     aja.innerHTML="<p> papa </p>"
+     aja.innerHTML="<p> mahadev </p>"
         aja1.innerHTML="<p> jatav </p>"
 
         aja.Style.
